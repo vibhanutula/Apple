@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 200;
+    background-color: greenyellow;
+    color: rgb(36, 59, 0);
+}
+
+canvas{
+    border:3px rgb(21, 36, 0) dashed;
+}
